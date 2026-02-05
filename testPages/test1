@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Glossary Test 1</title>
+  <link rel="stylesheet" href="../css/glossary.css"/>
+</head>
+
+<body>
+  <div id="content">
+    <p>
+      The NPS is not the same as the NOAA. By the way, what is the BSFW?
+    </p>
+  </div>
+
+  <div id="glossary"></div>
+
+<script src="../js/glossary-terms.js"></script>
+<script src="../js/glossary-identifier-highlight-render.js"></script>
+<script src="../js/glossary-initialization.js"></script>
+</html>
