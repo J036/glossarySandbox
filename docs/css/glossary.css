@@ -1,10 +1,10 @@
 
 .glossary-term {
     /*Style for glossary terms*/
-    text-decoration: underline dotted rgb(94, 95, 94);
+    text-decoration: underline dotted rgb(46, 66, 46);
     display: inline-block;
     cursor: help;
-    background-color: rgb(223, 223, 223);
+    background-color: rgb(173, 206, 176);
     position: relative;
 }
 
